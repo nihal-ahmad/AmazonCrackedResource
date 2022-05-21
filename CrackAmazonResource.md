@@ -55,9 +55,9 @@ Difficulty Rating: **Easy | Easy-Medium | Medium | Medium-Hard | Hard**
 | [Longest Palindromic Substring]( https://leetcode.com/problems/longest-palindromic-substring/) | ❌ | krna hai |
 | [Subtree of Another Tree]( https://leetcode.com/problems/subtree-of-another-tree/)  | ✅ | revisit once again for O(n) solution |
 | [Trapping Rain Water]( https://leetcode.com/problems/trapping-rain-water/)  | ❌ | krte hai last me  |
-| [Word Ladder]( https://leetcode.com/problems/word-ladder/)  |  |  |
-|  [Maximal Square]( https://leetcode.com/problems/maximal-square/)  |  |  |
-| [Friend Circles]( https://leetcode.com/problems/friend-circles/) |  |  |
+| [Word Ladder]( https://leetcode.com/problems/word-ladder/)  | ✅ |  |
+|  [Maximal Square]( https://leetcode.com/problems/maximal-square/)  | ❌ | dp ka hau baad me krenge |
+| [Friend Circles]( https://leetcode.com/problems/friend-circles/) | ✅ |  |
 
 ---
 <br>
@@ -66,11 +66,11 @@ Difficulty Rating: **Easy | Easy-Medium | Medium | Medium-Hard | Hard**
 
 | Problem Link | Status | Difficulty |
 | ------ | ------ | ------ |
-| [Longest Substring Without Repeating Characters]( https://leetcode.com/problems/longest-substring-without-repeating-characters/)  |  |  |
-| [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)  |  |  |
-| [Merge Intervals]( https://leetcode.com/problems/merge-intervals/)  |  |  |
-| [Analyze User Website Visit Pattern]( https://leetcode.com/problems/analyze-user-website-visit-pattern/)  |  |  |
-| [Prison Cells After N Days]( https://leetcode.com/problems/prison-cells-after-n-days/)  |  |  |
+| [Longest Substring Without Repeating Characters]( https://leetcode.com/problems/longest-substring-without-repeating-characters/)  | ✅ |  |
+| [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)  | ✅ |  |
+| [Merge Intervals]( https://leetcode.com/problems/merge-intervals/)  | ✅ |  |
+| [Analyze User Website Visit Pattern]( https://leetcode.com/problems/analyze-user-website-visit-pattern/)  | ❌ | important question krna hai abhi |
+| [Prison Cells After N Days]( https://leetcode.com/problems/prison-cells-after-n-days/)  | ✅ | |
 | [Meeting Rooms II]( https://leetcode.com/problems/meeting-rooms-ii/) |  |  |
 | [Group Anagrams]( https://leetcode.com/problems/group-anagrams/) |  |  |
 | [Sliding Window Maximum]( https://leetcode.com/problems/sliding-window-maximum/)  |  |  |
